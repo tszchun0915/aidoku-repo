@@ -1,0 +1,14 @@
+{
+  "name": "MyTest",
+  "sources": [
+    {
+      "id": "official.sample",
+      "name": "Sample",
+      "version": "1.0.0",
+      "description": "test",
+      "author": "me",
+      "language": "zh",
+      "url": "https://github.com/Aidoku/Samples/raw/main/dist/Sample.wasm"
+    }
+  ]
+}
