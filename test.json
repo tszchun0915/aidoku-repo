@@ -1,14 +1,17 @@
 {
-  "name": "MyTest",
+  "name": "我的清單",
   "sources": [
     {
       "id": "official.sample",
-      "name": "Sample",
+      "name": "範例來源",
       "version": "1.0.0",
-      "description": "test",
-      "author": "me",
-      "language": "zh",
       "url": "https://github.com/Aidoku/Samples/raw/main/dist/Sample.wasm"
+    },
+    {
+      "id": "zh.dmzj",
+      "name": "動漫之家",
+      "version": "1.0.5",
+      "url": "https://github.com/你的用戶名/aidoku-repo/raw/main/dmzj.wasm"
     }
   ]
 }
